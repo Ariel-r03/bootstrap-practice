@@ -1,0 +1,18 @@
+.tractor-section{
+  background-image: url(/img/Tractor.png);
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.title-container{
+    display: flex;
+    justify-content: center;
+    align-items: bottom;
+}
+.titulo-h2{
+    margin-top: 17rem;
+    color: white;
+}
